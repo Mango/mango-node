@@ -59,7 +59,7 @@ $ npm test
 $ npm run coverage
 ```
 
-## Liecense
+## License
 Licensed under the MIT license.
 
 Copyright (c) 2014 Mango.
