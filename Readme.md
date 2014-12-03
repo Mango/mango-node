@@ -1,3 +1,9 @@
+## Installation
+
+```
+$ npm install mango
+```
+
 ## Usage
 
 ### Import the library and set your secret API key:
