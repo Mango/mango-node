@@ -1,6 +1,6 @@
 {
   "name": "mango",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Mango API client for node.js",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,12 @@
     "Mango",
     "API"
   ],
-  "author": "Dan Zajdband <dan@getmango.com>",
+  "author": "Mango <dan@getmango.com> (https://getmango.com)",
+  "contributors": [
+    "Dan Zajdband <dan@getmango.com>",
+    "Guillermo Paz <guillermo@getmango.com>",
+    "Juan Rossi <juan@getmango.com>"
+  ],
   "license": "MIT",
   "dependencies": {
     "debug": "2.1.0",

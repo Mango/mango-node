@@ -39,6 +39,7 @@ You can also work with all the other resources authenticated with a secret API K
 - [Cards](https://developers.getmango.com/en/api/cards/?platform=node)
 - [Queue](https://developers.getmango.com/en/api/queue/?platform=node)
 - [Installments](https://developers.getmango.com/en/api/installments/?platform=node)
+- [Promotions](https://developers.getmango.com/en/api/promotions/?platform=node)
 
 ## Tests
 
